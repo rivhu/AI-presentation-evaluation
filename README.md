@@ -1,4 +1,5 @@
-#This project detects your confidence in categories when you are giving a presentation
+#This project analyzes your confidence levels across different categories while delivering a presentation.
+<br>
 <br>
 <br>
 main code is present in confidence_detector.py in detector_app
