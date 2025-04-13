@@ -1,7 +1,5 @@
-# AI-presentation-evaluation
+#This project detects your confidence in categories when you are giving a presentation
 <br>
-<br>
-This project detects your confidence in categories when you are giving a presentation
 <br>
 main code is present in confidence_detector.py in detector_app
 <br>
